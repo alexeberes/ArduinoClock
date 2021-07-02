@@ -1,4 +1,5 @@
 {
     "board": "arduino:avr:uno",
-    "sketch": "Clock.ino"
+    "sketch": "Clock.ino",
+    "port": "COM7"
 }
